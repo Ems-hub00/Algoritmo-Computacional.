@@ -16,6 +16,6 @@
 
 <p>Proyecto en C# que resuelve dos problemas prácticos de lógica de programación y flujo de control:
 
-* **Actividad 1 (Control de acceso al cine):** Sistema de registro que determina el acceso, categoría y tarifa a pagar de un usuario según su edad y género.
+**Actividad 1 (Control de acceso al cine):** Sistema de registro que determina el acceso, categoría y tarifa a pagar de un usuario según su edad y género.
 
-* **Actividad 2 (Adivina el número):** Juego de consola interactivo donde el usuario adivina un número aleatorio entre 1 y 50 recibiendo pistas de «Más alto» o «Más bajo».</p>
+**Actividad 2 (Adivina el número):** Juego de consola interactivo donde el usuario adivina un número aleatorio entre 1 y 50 recibiendo pistas de «Más alto» o «Más bajo».</p>
