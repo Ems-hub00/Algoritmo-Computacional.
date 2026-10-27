@@ -2,13 +2,13 @@
 
 <h2> Integrantes:</h2>
 
-<p>**1-**Esqueisi Michel Mercedes Santana  
+<p>1-Esqueisi Michel Mercedes Santana  
   
-**2-** Genesis Rosario Raposo
+2- Genesis Rosario Raposo
 
-**3-**Delvin Barett
+3-Delvin Barett
 
-**4-**Angelo Herrera
+4-Angelo Herrera
 
-**5-**Oscar raphael santillan carpio</p>
+5-Oscar raphael santillan carpio</p>
 
