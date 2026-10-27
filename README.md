@@ -19,3 +19,18 @@
 **Actividad 1 (Control de acceso al cine):** Sistema de registro que determina el acceso, categoría y tarifa a pagar de un usuario según su edad y género.
 
 **Actividad 2 (Adivina el número):** Juego de consola interactivo donde el usuario adivina un número aleatorio entre 1 y 50 recibiendo pistas de «Más alto» o «Más bajo».</p>
+
+<h2>Cómo ejecutar:</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Capturas de pantalla:</h2>
