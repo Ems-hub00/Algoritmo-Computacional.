@@ -34,3 +34,5 @@
 
 
 <h2>Capturas de pantalla:</h2>
+Actividad 1:
+<img width="390" height="168" alt="Captura de pantalla 2026-10-27 212816" src="https://github.com/user-attachments/assets/f6af9a92-bc44-47ff-be95-aa50e7a08194" />
