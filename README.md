@@ -37,4 +37,5 @@
 
 Actividad 1:
 
-<img width="390" height="168" alt="Captura de pantalla 2026-10-27 212816" src="https://github.com/user-attachments/assets/f6af9a92-bc44-47ff-be95-aa50e7a08194" /> <img width="377" height="116" alt="Captura de pantalla 2026-10-27 213006" src="https://github.com/user-attachments/assets/7856d21e-7e32-47f6-a57e-b3184f869c08" />
+<img width="390" height="168" alt="Captura de pantalla 2026-10-27 212816" src="https://github.com/user-attachments/assets/f6af9a92-bc44-47ff-be95-aa50e7a08194" /> <img width="377" height="116" alt="Captura de pantalla 2026-10-27 213006" src="https://github.com/user-attachments/assets/7856d21e-7e32-47f6-a57e-b3184f869c08" /> <img width="427" height="275" alt="WhatsApp Image 2026-10-27 at 9 43 40 PM" src="https://github.com/user-attachments/assets/c0c8e3bc-e242-49ba-9c34-b28930f7bfa4" />
+
