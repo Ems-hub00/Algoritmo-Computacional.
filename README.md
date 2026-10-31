@@ -31,5 +31,8 @@ Este repositorio contiene programas desarrollados en C#. Para ejecutarlos, neces
 
 2. **Abrir el proyecto:**
 <p>Abre **Visual Studio Community**.<br>
-   Arrastra la carpeta dentro de Visual Studio. </p> 3.**Ejecutar el programa:**<br>
+   Arrastra la carpeta dentro de Visual Studio. </p>
+   
+   3.**Ejecutar el programa:**<br>
 Presiona el botón verde de **Play** (o la tecla **F5**) en la barra superior para compilar y ejecutar.
+   
