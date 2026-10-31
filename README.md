@@ -27,7 +27,7 @@ Este repositorio contiene programas desarrollados en C#. Para ejecutarlos, neces
 **Sigue estos pasos según la actividad que desees probar:**
 
 1. **Descargar el repositorio:**
-<p>Haz clic en el botón verde **Code** en la parte superior de este repositorio, selecciona **Download ZIP**, y descomprímelo en tu computadora.</p>
+<p>Haz clic en el botón verde Code en la parte superior de este repositorio, selecciona Download ZIP, y descomprímelo en tu computadora.</p>
 
 2. **Abrir el proyecto:**
 <p>Abre: Visual Studio Community.<br>
